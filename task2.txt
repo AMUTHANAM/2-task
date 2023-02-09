@@ -1,0 +1,8 @@
+window object 
+            window object represent browser window that is condent of the web page
+            whenever browser window appers on the screen to display the content of the document the window object is created
+            it has own properties
+document object
+            when html document is loaded in window it becomes document object modle
+            the document object it has various properties that is refer to other object to allow to access and change the condent of web page
+            if there is need to access any element ia an html we can accessing the html object
